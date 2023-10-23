@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.gif](https://i.gifer.com/OSFi.gif))](https://fernandophcsg.io)
+[![MasterHead](https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.gif)](https://fernandophcsg.io)
 <h1 align="center">Hi 👋, I'm Chiran Sooryakumara</h1>
 <h3 align="center">A passionate full stack developer </h3>
 
