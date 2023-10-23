@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chiran Sooryakumara</h1>
 <h3 align="center">A passionate full stack developer </h3>
 <img align="right" alt="cording" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandophcsg&label=Profile%20views&color=0e75b6&style=fla" alt="fernandophcsg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandophcsg&label=Profile%20views&color=0e75b6&style=flat" alt="fernandophcsg" /> </p>
 
 - 🌱 I’m currently learning **Java, Python**
 
