@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/Fernandophcsg/Fernandophcsg/blob/main/image/OSFi.gif?raw=true)](https://fernandophcsg.io)
+
 <h1 align="center">Hi 👋, I'm Chiran Sooryakumara</h1>
 <h3 align="center">A passionate full stack developer </h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandophcsg&label=Profile%20views&color=0e75b6&style=flat" alt="fernandophcsg" /> </p>
 
 - 🌱 I’m currently learning **Java, Python**
 
