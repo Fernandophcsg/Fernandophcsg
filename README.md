@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20Hello%20World!;I'm%20Chiran%20Sooryakumara;Passionate%20Web%20Developer;Open-Source%20Enthusiast;Undergraduate&font=Fira%20Code&center=true&width=440&height=45&color=fdbb2d&vCenter=true&size=28"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20Hello%20World!;I'm%20Chiran%20Sooryakumara;Passionate%20Web%20Developer;Open-Source%20Enthusiast;IT%20Undergraduate&font=Fira%20Code&center=true&width=440&height=45&color=fdbb2d&vCenter=true&size=28"></a>
 </p>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 - 🌱 I’m currently learning **Java, Python**
